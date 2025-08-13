@@ -1,0 +1,16 @@
+D:\Projects\LifeSimulation\bin\Release\LifeSimulation.exe.config
+D:\Projects\LifeSimulation\bin\Release\LifeSimulation.exe
+D:\Projects\LifeSimulation\bin\Release\LifeSimulation.pdb
+D:\Projects\LifeSimulation\obj\Release\LifeSimulation.csproj.AssemblyReference.cache
+D:\Projects\LifeSimulation\obj\Release\MainWindow.g.cs
+D:\Projects\LifeSimulation\obj\Release\App.g.cs
+D:\Projects\LifeSimulation\obj\Release\LifeSimulation_MarkupCompile.cache
+D:\Projects\LifeSimulation\obj\Release\LifeSimulation_MarkupCompile.lref
+D:\Projects\LifeSimulation\obj\Release\App.baml
+D:\Projects\LifeSimulation\obj\Release\MainWindow.baml
+D:\Projects\LifeSimulation\obj\Release\LifeSimulation.g.resources
+D:\Projects\LifeSimulation\obj\Release\LifeSimulation.Properties.Resources.resources
+D:\Projects\LifeSimulation\obj\Release\LifeSimulation.csproj.GenerateResource.cache
+D:\Projects\LifeSimulation\obj\Release\LifeSimulation.csproj.CoreCompileInputs.cache
+D:\Projects\LifeSimulation\obj\Release\LifeSimulation.exe
+D:\Projects\LifeSimulation\obj\Release\LifeSimulation.pdb
